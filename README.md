@@ -59,8 +59,7 @@ TaskManagementApplication/
 │   └── viewmodel/           
 │
 └── README.md
-# 📸 ScreenShorts 
-<img src="screenshots/Screenshot_20251119_213124.png" width="300"/>
+
 
 # 📦 Download APK
 You can download the latest build here:
