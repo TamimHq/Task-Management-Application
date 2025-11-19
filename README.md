@@ -59,11 +59,11 @@ TaskManagementApplication/
 │   └── viewmodel/           
 │
 └── README.md
-
-
-# 📦 Download APK
+## 📦 Download APK
 You can download the latest build here:
-👉 Download APK
+
+👉 [**Download Task Management App (APK)**](https://github.com/TamimHq/Task-Management-Application/releases/download/v1.0.0/app-debug.apk)
+
 
 # ▶️ How to Run
 1. Clone the repo
