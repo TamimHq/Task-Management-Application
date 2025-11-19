@@ -59,6 +59,13 @@ TaskManagementApplication/
 │   └── viewmodel/           
 │
 └── README.md
+# 📸 ScreenShorts 
+<img src="screenshots/Screenshot_20251119_213124.png" width="300"/>
+
+# 📦 Download APK
+You can download the latest build here:
+👉 Download APK
+
 # ▶️ How to Run
 1. Clone the repo
    git clone https://github.com/TamimHq/Task-Management-Application.git
